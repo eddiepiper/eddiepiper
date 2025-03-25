@@ -18,7 +18,7 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 
 * [01-01-medical-journal-crawler](https://github.com/eddiepiper/01-01-medical-journal-crawler) - 🤖 AI-powered medical journal crawler that provides comprehensive literature reviews from PubMed articles
 * [01-02-chart-graph-interpreter](https://github.com/eddiepiper/01-02-chart-graph-interpreter) - 📊 AI-powered tool for analyzing and interpreting medical charts and graphs
-* [01-04-medical-QA-agent](https://github.com/eddiepiper/01-04-medical-QA-agent) - 💊 Intelligent medical query response system using advanced NLP
+* [01-03-medical-QA-agent](https://github.com/eddiepiper/01-03-medical-QA-agent) - 💊 Intelligent medical query response system using advanced NLP
 
 ### 💹 Finance & Banking
 
@@ -27,7 +27,7 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 * [02-03-form-filling-assistant](https://github.com/eddiepiper/02-03-form-filling-assistant) - 📝 Banking form automation using OCR and NLP
 * [02-04-compliance-checker](https://github.com/eddiepiper/02-04-compliance-checker) - ✅ Banking compliance verification using AI
 * [02-05-customer-support-chatbot](https://github.com/eddiepiper/02-05-customer-support-chatbot) - 🤖 Intelligent banking customer support system
-* [02-07-finance-team](https://github.com/eddiepiper/02-07-finance-team) - 👥 AI-powered financial team assistant for banking operations
+* [02-06-finance-team](https://github.com/eddiepiper/02-06-finance-team) - 👥 AI-powered financial team assistant for banking operations
 
 ### 🧠 Productivity & Knowledge Management
 
