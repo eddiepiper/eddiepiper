@@ -29,6 +29,8 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 * [02-04-compliance-checker](https://github.com/eddiepiper/02-04-compliance-checker) - ✅ Banking compliance verification using AI
 * [02-05-customer-support-chatbot](https://github.com/eddiepiper/02-05-customer-support-chatbot) - 🤖 Intelligent banking customer support system
 * [02-06-finance-team](https://github.com/eddiepiper/02-06-finance-team) - 👥 AI-powered financial team assistant for banking operations
+* [02-07-competitor-intelligence-agent](https://github.com/eddiepiper/02-07-competitor-intelligence-agent) - 
+📝 An AI-powered system for analyzing competitor data, market trends, and business intelligence.
 
 ### 🧠 Productivity & Knowledge Management
 
