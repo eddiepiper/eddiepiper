@@ -19,6 +19,7 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 * [01-01-medical-journal-crawler](https://github.com/eddiepiper/01-01-medical-journal-crawler) - 🤖 AI-powered medical journal crawler that provides comprehensive literature reviews from PubMed articles
 * [01-02-chart-graph-interpreter](https://github.com/eddiepiper/01-02-chart-graph-interpreter) - 📊 AI-powered tool for analyzing and interpreting medical charts and graphs
 * [01-03-medical-QA-agent](https://github.com/eddiepiper/01-03-medical-QA-agent) - 💊 Intelligent medical query response system using advanced NLP
+* [01-04-mental-wellbeing-assistant](https://github.com/eddiepiper/01-04-mental-wellbeing-assistant) - 🧠 AI-powered mental health support and wellness tracking system
 
 ### 💹 Finance & Banking
 
