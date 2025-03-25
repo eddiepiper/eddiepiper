@@ -76,9 +76,8 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 
 I'm always interested in collaborating on innovative AI projects. Feel free to reach out!
 
-* 📧 Email: [Your Email]
-* 💼 LinkedIn: [Your LinkedIn]
-* 🐦 Twitter: [Your Twitter]
+* 💼 LinkedIn: [linkedin.com/in/edwardchiangwh]
+
 
 ---
 
