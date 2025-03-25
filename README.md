@@ -1,7 +1,7 @@
 # 🤖 Eddie's AI Agent Collection
 
 [![GitHub followers](https://img.shields.io/github/followers/eddiepiper?style=social)](https://github.com/eddiepiper)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edwardchiangwh)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](Your_Twitter_URL)
 
 A curated collection of AI-powered agents and tools built with cutting-edge technologies including GPT-4, Computer Vision, and Natural Language Processing.
@@ -77,9 +77,7 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 
 I'm always interested in collaborating on innovative AI projects. Feel free to reach out!
 
-* 📧 Email: [Your Email]
-* 💼 LinkedIn: [Your LinkedIn]
-* 🐦 Twitter: [Your Twitter]
+* 💼 LinkedIn: [linkedin.com/in/edwardchiangwh](https://linkedin.com/in/edwardchiangwh)
 
 ---
 
