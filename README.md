@@ -31,6 +31,7 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 * [02-06-finance-team](https://github.com/eddiepiper/02-06-finance-team) - 👥 AI-powered financial team assistant for banking operations
 * [02-07-competitor-intelligence-agent](https://github.com/eddiepiper/02-07-competitor-intelligence-agent) - 
 📝 An AI-powered system for analyzing competitor data, market trends, and business intelligence.
+* [02-08-Finance Agent Team (CrewAI-Powered)](https://github.com/eddiepiper/02-08-finance-agent-team) - 👥 sophisticated financial analysis platform powered by AI agents that work together to provide comprehensive market insights and investment recommendations.
 
 ### 🧠 Productivity & Knowledge Management
 
