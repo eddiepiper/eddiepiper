@@ -41,7 +41,7 @@ A curated collection of AI-powered agents and tools built with cutting-edge tech
 
 * [04-01-code-assistant](https://github.com/eddiepiper/04-01-code-assistant) - 💻 AI-powered coding assistant for developers
 * [04-02-RAG-agent](https://github.com/eddiepiper/04-02-RAG-agent) - 🔍 Retrieval Augmented Generation system for enhanced AI responses
-* [04-03-DCM-agent](https://github.com/eddiepiper/04-03-DCM-agent) - 🤖 Dynamic Context Management agent for AI applications
+* [04-03-MCP-agent](https://github.com/eddiepiper/04-03-MCP-agent) - 🤖 Model Context Protocol agent for AI applications
 
 ## 🛠️ Tech Stack
 
